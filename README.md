@@ -1,5 +1,5 @@
 # Battle-Bots
-UPenn-MEAM 510 Design of Mechatronics Systems Final Project under Dr Mark Yim (Graduate Course)
+with Dr Mark Yim, UPenn
 
 
 # Description:
