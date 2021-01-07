@@ -4,4 +4,4 @@ with Dr Mark Yim, UPenn
 
 # Description:
 
-Designed and Fabricated a 4 wheel drive robot with attack arm and display health bar. ESP32 microcontroller and Teensy 2.0 were used for driving and attack arm control. I2C communication was used between two ESP 32s and WiFi was used to relay information to a central server. An autonomous mode with position detection using HTC Vive was tried and added.
+Designed and Fabricated a 4 wheel drive sem-autonomous robot controlled by ESP32 and Teensy 2.0 microcontrollers localized with HTC Vive. I2C communication was used between two ESP 32s and WiFi was used to relay information to a central server. 
