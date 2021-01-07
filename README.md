@@ -19,7 +19,7 @@ Designed and Fabricated a 4 wheel drive sem-autonomous robot controlled by ESP32
    
    <img src="Img4.PNG" width="400" height="400"/>
    
-   Full schematic for main drive board
+   Full schematic for Main Drive board
     
    <img src="Img5.PNG" width="800" height="600"/>
     
