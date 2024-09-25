@@ -14,18 +14,15 @@
 
 #define _I2C_NUMBER(num) I2C_NUM_##num
 #define I2C_NUMBER(num) _I2C_NUMBER(num)
-
 #define DATA_LENGTH 128                             // data buffer length of test buffer
 #define W_LENGTH 1                                  // data length for w, [0,DATA_LENGTH]
 #define R_LENGTH 16                                 // data length for r, [0,DATA_LENGTH]
-
 #define I2C_MASTER_SCL_IO (gpio_num_t)33            // gpio number for I2C master clock
 #define I2C_MASTER_SDA_IO (gpio_num_t)25            // gpio number for I2C master data
 #define I2C_MASTER_NUM I2C_NUMBER(1)                // I2C port number for master dev
 #define I2C_MASTER_FREQ_HZ 40000                    // I2C master clock frequency (Hz)
 #define I2C_MASTER_TX_BUF_DISABLE 0                 // I2C master doesn't need buffer
 #define I2C_MASTER_RX_BUF_DISABLE 0                 // I2C master doesn't need buffer
-
 #define CONFIG_I2C_SLAVE_ADDRESS 0x28
 #define ESP_SLAVE_ADDR CONFIG_I2C_SLAVE_ADDRESS     // ESP32 slave address, you can set any 7bit value
 #define WRITE_BIT I2C_MASTER_WRITE                  // I2C master write
