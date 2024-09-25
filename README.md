@@ -21,6 +21,6 @@ Designed and fabricated a 4 wheel drive robot controlled by ESP32 and Teensy 2.0
    
    Full schematic for Main Drive board
     
-   <img src="Img5.PNG" width="800" height="600"/>
+   <img src="Img5.PNG" width="400" height="400"/>
     
     
