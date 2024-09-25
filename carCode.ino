@@ -51,16 +51,13 @@ byte packetBuffer[UDP_PACKET_SIZE+1];             // Initialize the receive buff
 #define LEFT_REV_PIN 18
 #define RIGHT_DIR_PIN 5
 #define RIGHT_REV_PIN 17
-
 #define TRIG_PIN 23
 #define ECHO_ONE_PIN 16
 #define ECHO_TWO_PIN 4
 #define ECHO_THREE_PIN 15
-
 #define SERVO_PWM_PIN 13
 #define SERVO_DIR_PIN 22
 #define SERVO_REV_PIN 21
-
 #define SWITCH_PIN 26
 #define VIVE_PIN 32
 
