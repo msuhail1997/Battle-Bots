@@ -2,9 +2,9 @@
 
 
 
-# Description:
+### Description:
 
-Designed and Fabricated a 4 wheel drive semi-autonomous robot controlled by ESP32 and Teensy 2.0 microcontrollers.
+Designed and fabricated a 4 wheel drive robot controlled by ESP32 and Teensy 2.0 microcontrollers.
 
 
   <img src="Img1.PNG" width="400" height="400"/>  <img src="Img2.PNG" width="400" height="400"/>
@@ -13,7 +13,7 @@ Designed and Fabricated a 4 wheel drive semi-autonomous robot controlled by ESP3
   CAD Model
   
   
-  <img src="Img3.PNG" width="600" height="500"/>
+  <img src="Img3.PNG" width="400" height="400"/>
     
    CPU Architecture
    
