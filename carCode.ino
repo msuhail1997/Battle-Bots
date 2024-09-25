@@ -7,7 +7,6 @@
 // =================================================================
 #include <WiFi.h>
 #include <WiFiUdp.h>
-
 #include <stdio.h>
 #include "esp_log.h"
 #include "driver/i2c.h"
