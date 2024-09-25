@@ -3,13 +3,13 @@
 #include <WiFiUdp.h>
 
 // Define the network name/password we want to connect to
-const char* ssid     = "woofwoof";
-const char* password = "11111111";
+const char* ssid     = "";
+const char* password = "";
 
 // Variables and set up for Wifi
 WiFiUDP UDPTestServer;
 unsigned int UDPPort = 2150;                       // Define the target port
-IPAddress localIPaddress(192, 168, 1, 150);        // Define my IP Address
+IPAddress localIPaddress(192, 168, 1, 150);        // Define IP Address
 IPAddress targetIPaddress(192, 168, 1, 255);       // Define target IP Address
 
 const int UDP_PACKET_SIZE = 48;                    // Define the packet size
